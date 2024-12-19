@@ -1,0 +1,105 @@
+{
+  "shortDescription": "Challenge yourself with Story Protocol trivia!",
+  "questions": [
+    {
+      "question": "What does IPA stand for?",
+      "answers": ["IP Asset", "IP Account", "IP Archive"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What layer is Story Protocol?",
+      "answers": ["Layer 1", "Layer 2", "Layer 3"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is a PIL?",
+      "answers": ["License", "Ledger", "Library"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What ensures IP ownership?",
+      "answers": ["Provenance", "Proofwork", "Policy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is used for royalties?",
+      "answers": ["LAP", "LCP", "LPP"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an IP Account?",
+      "answers": ["Manager", "Tracker", "Publisher"],
+      "correctAnswerIndex": 1
+    },
+    {
+      "question": "Which app uses Story?",
+      "answers": ["Magma", "Sigma", "Algos"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is the dispute policy?",
+      "answers": ["UMA", "USP", "UPM"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Proof-of-Creativity?",
+      "answers": ["Validation", "Calculation", "Promotion"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "Who owns the IP Account?",
+      "answers": ["Creator", "Viewer", "Agent"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What tracks IP history?",
+      "answers": ["Provenance", "License", "Dispute"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What powers Story Protocol?",
+      "answers": ["Blockchain", "Database", "Server"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is an IPA?",
+      "answers": ["Asset", "Account", "Access"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does PIL manage?",
+      "answers": ["Licenses", "Assets", "Accounts"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What ensures fair pay?",
+      "answers": ["Royalties", "Licenses", "Ownership"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What does LRP mean?",
+      "answers": ["Revenue", "Protocol", "Policy"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What is Story's SDK in?",
+      "answers": ["TypeScript", "Python", "Java"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What module resolves issues?",
+      "answers": ["Dispute", "Royalty", "License"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What app uses AI?",
+      "answers": ["Mahojin", "Magma", "Sekai"],
+      "correctAnswerIndex": 0
+    },
+    {
+      "question": "What manages rights?",
+      "answers": ["Licenses", "Accounts", "Assets"],
+      "correctAnswerIndex": 0
+    }
+  ]
+}
